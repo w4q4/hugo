@@ -1,0 +1,2 @@
+# hugo
+study hugo
